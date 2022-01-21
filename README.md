@@ -16,23 +16,23 @@ Vous devez agrémenter votre code avec de l'HTML 5 valide (DOCTYPE, ....)
 
 ##Exercice 3 
 
-Avec le formulaire de l'exercice 1, afficher dans la page user.php les données du formulaire transmis.
+***Avec le formulaire de l'exercice 1, afficher dans la page user.php les données du formulaire transmis.***
 
 
 ##Exercice 4 
 
-Avec le formulaire de l'exercice 2, afficher dans la page user.php les données du formulaire transmises.
+***Avec le formulaire de l'exercice 2, afficher dans la page user.php les données du formulaire transmises.***
 
 
 ##Exercice 5 
 
-Créer un formulaire sur la page index.php avec :
+***Créer un formulaire sur la page index.php avec :***
 
     Une liste déroulante pour la civilité (Mr ou Mme)
     Un champ texte pour le nom
     Un champ texte pour le prénom
 
-Ce formulaire doit rediriger vers la page index.php. Vous avez le choix de la méthode.
+***Ce formulaire doit rediriger vers la page index.php. Vous avez le choix de la méthode.***
 
 
 ##Exercice 6 
