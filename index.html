@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Formulaire</title>
+</head>
+<body>
+
+<form action="user.php" method="get">
+    <label for="name">Nom:</label>
+    <input type="text" id="name" minlength="5" maxlength="20" name="name">
+
+    <label for="firstName">Prénom</label>
+    <input type="text" id="firstName" minlength="5" maxlength="20" name="firstName">
+
+    <input type="submit" id="submit" name="submit" value="Envoyer">
+</form>
+
+<form action="user.php" method="post">
+
+    <label for="username">Nom</label>
+    <input type="text" id="username" minlength="5" maxlength="20" name="name">
+
+    <label for="firstUsername">Prénom</label>
+    <input type="text" id="firstUsername" minlength="5" maxlength="20" name="firstName">
+
+    <input type="submit" id="send" name="submit" value="Envoyer">
+</form>
+
+</body>
+</html>
